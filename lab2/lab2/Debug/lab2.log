@@ -1,0 +1,7 @@
+﻿  Source1.cpp
+C:\VS2019\3 term labs and course work\lab2\lab2\Source1.cpp(132,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\VS2019\3 term labs and course work\lab2\lab2\Source1.cpp(154,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\VS2019\3 term labs and course work\lab2\lab2\Source1.cpp(164,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\VS2019\3 term labs and course work\lab2\lab2\Source1.cpp(177,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\VS2019\3 term labs and course work\lab2\lab2\Source1.cpp(183,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> C:\VS2019\3 term labs and course work\lab2\Debug\lab2.exe
